@@ -193,10 +193,10 @@ a {
 
 @media (max-width: 500px) {
     #map {
-    z-index: 1;
-    margin: 0 auto;
-    width: 90%; /*Szerokości kontenera*/
-    height: 600px;}
+        z-index: 1;
+        margin: 0 auto;
+        width: 90%; /*Szerokości kontenera*/
+        height: 600px;}
 
 
     .zegar {
